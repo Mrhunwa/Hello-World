@@ -1,7 +1,4 @@
 # Hello-World
-My first repository ever.
 
-Learning How to use git. 
-So far it looks good. 
-
-I have made changes to the readme file, so i can commit them to the master
+I have gotten the basics of using git. 
+Well done me. 
